@@ -54,5 +54,3 @@ def yell_greeting(string)
   name = name.upcase
   greeting = "WASSAP, #{name}!"
 end
-
-yell_greeting("joseph")
